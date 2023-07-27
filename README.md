@@ -7,11 +7,11 @@ I'm a Cloud Engineer, Web Designer, and Seo Expert who currently works as a Web 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Python, DevOps, and Cloud Architecture.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, DevOps, or Cloud Solution (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing muyiwaolorunnayese@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1oh3qUd29rHOq1TwA2PARlT5s4eufgV9DVYvy1s1SQIU/edit?usp=sharing) and contact me by emailing muyiwaolorunnayese@gmail.com.
 
 ---
 
